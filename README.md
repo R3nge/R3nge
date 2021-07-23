@@ -2,15 +2,15 @@
 import Desenvolvedor from 'R3nge';
 
 class SobreMim extends Desenvolvedor {
-  nome     ='Rodrigo Gomes';
-  area    ='Estudante do IF sudeste MG';
-  trabalho  ='Emcomp ';
+  nome = 'Rodrigo Gomes';
+  area = 'Estudante do IF sudeste MG';
+  trabalho = 'Emcomp ';
   local = 'Cataguases/Rio Pomba MG';
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  =['JavaScript/ReactJS | PHP | Python | C++ | '];
-  Estou Estudando =['ReactJS | PHP | Banco de Dados | Analise de Sistemas | NodeJS'];
+  linguagens = ['JavaScript/ReactJS | PHP | Python | C++ | '];
+  Estou Estudando = ['ReactJS | PHP | Banco de Dados | Analise de Sistemas | NodeJS'];
 }
 ```
 <p align="left">
