@@ -2,14 +2,14 @@
 import Desenvolvedor from 'Digo';
 
 class SobreMim extends Desenvolvedor {
-  nome = 'Rodrigo Gomes';
-  area = 'Estudante do IF sudeste MG';
-  trabalho = 'Emcomp ';
-  local = 'Cataguases/Rio Pomba MG';
+  Nome = 'Rodrigo Gomes';
+  Area = 'Estudante do IF sudeste MG';
+  Trabalho = 'Emcomp / DACC IFRP';
+  Local = 'Cataguases/Rio Pomba MG';
 }
 
 class Skills extends Desenvolvedor {
-  linguagens = ['JavaScript/ReactJS | PHP | Python | C++ | '];
+  Linguagens = ['JavaScript/ReactJS | PHP | Python | C++ | '];
   Estou Estudando = ['ReactJS | PHP | Banco de Dados | Analise de Sistemas | NodeJS'];
 }
 ```
