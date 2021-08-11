@@ -10,7 +10,7 @@ class SobreMim extends Desenvolvedor {
 
 class Skills extends Desenvolvedor {
   Linguagens = ['JavaScript/ReactJS | PHP | Python | C++ | '];
-  Estou Estudando = ['ReactJS | PHP | Banco de Dados | Analise de Sistemas | NodeJS'];
+  Estou Estudando = ['ReactJS | PHP | Banco de Dados | Analise de Sistemas | NodeJS | Java'];
 }
 ```
 <p align="left">
