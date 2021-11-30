@@ -4,13 +4,14 @@ import Desenvolvedor from 'Digo';
 class SobreMim extends Desenvolvedor {
   Nome = 'Rodrigo Gomes';
   Area = 'Estudante do IF sudeste MG';
-  Trabalho = 'Emcomp / DACC IFRP';
+  Trabalho Atual = 'DACC IFRP';
   Local = 'Cataguases/Rio Pomba MG';
 }
 
 class Skills extends Desenvolvedor {
-  Linguagens = ['JavaScript/ReactJS | PHP | Python | C++ | '];
-  Estou Estudando = ['ReactJS | PHP | Banco de Dados | Analise de Sistemas | NodeJS | Java'];
+  Linguagens = ['JavaScript/ReactJS | PHP | Python | C++ | MYSQLI  '];
+  Estou Estudando = [' PHP | Banco de Dados | Analise de Sistemas | NodeJS | Laravel '];
+  Experiências de Trabalho = ['Empresa Junior Emcomp  | RBM WEB (3 meses)  | Projeto de Extensão Divulga DACC'];
 }
 ```
 <p align="left">
