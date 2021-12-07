@@ -9,8 +9,8 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  Linguagens = ['JavaScript/ReactJS | PHP | Python | C++ | MYSQLI  '];
-  Estou Estudando = [' PHP | Banco de Dados | Analise de Sistemas | NodeJS | Laravel '];
+  Linguagens = ['JavaScript/ReactJS | PHP | Python | C++ | MYSQLI'];
+  Estou Estudando = [' PHP | Banco de Dados | Analise de Sistemas | NodeJS | Laravel'];
   Experiências de Trabalho = ['Empresa Junior Emcomp  | RBM WEB (3 meses)  | Projeto de Extensão Divulga DACC'];
 }
 ```
