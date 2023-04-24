@@ -16,8 +16,7 @@ class Skills extends Desenvolvedor {
 ```
 <p align="left">
   <a href="#" alt="Outlook">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
-&link=digo.rodrigomalaquias@hotmail.com" /></a>
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=digo.rodrigomalaquias@hotmail.com" /></a>
   
   <a href="#" alt="WhtsApp">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://wa.link/376fo1/"/></a>
