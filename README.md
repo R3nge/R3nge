@@ -15,12 +15,13 @@ class Skills extends Desenvolvedor {
 }
 ```
 <p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=kamplayshd@gmail.com" /></a>
+  <a href="#" alt="Outlook">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+&link=digo.rodrigomalaquias@hotmail.com" /></a>
   
-  <a href="#" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/rodrigo.malaquias.737/"/></a>
+  <a href="#" alt="WhtsApp">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://wa.link/376fo1/"/></a>
 
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/thesamedigo/"/></a>
+  <a href="#" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitee&link=https://www.linkedin.com/in/rodrigo-gomes-0a944a217//"/></a>
 </p>  
