@@ -17,15 +17,13 @@
 </p>
 
 <p align="center">
-<img align="center" width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RodrigoGomes&theme=github_dark&show_icons=true&bg_color=0111111"> </p>
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2"> 
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=R3nge&show_icons=true&theme=github_dark&&hide_border=true">
-<img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=R3nge&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="R3nge's github streak stats">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2"> </p>
-<p align="center">
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=R3nge&theme=onegithub_dark&no-frame=False&row=1&&margin-w=20&no-bg=true"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=R3nge&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R3nge&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3nge&layout=compact&theme=radical&hide_border=true" />
 </p>
+
+
+
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2"> </p>
